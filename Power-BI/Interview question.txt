@@ -1,0 +1,49 @@
+Here are **Power BI interview questions tailored fBeginner Level (Basics of Power BI)
+
+1. What is Power BI and how is it used in data analysis?
+2. What are the main components of Power BI?
+3. Difference between Power BI Desktop, Service, and Mobile?
+4. What is a dataset, report, and dashboard in Power BI?
+5. What are different data sources you can connect to in Power BI?
+6. What is Power Query used for?
+7. What is the difference between **Import mode and DirectQuery**?
+8. What are filters in Power BI (visual-level, page-level, report-level)?
+9. What is a relationship in Power BI data model?
+10. What is data modeling?
+
+--- Intermediate Level (Data Analysis Focus)
+
+1. What is DAX and why is it important?
+2. Difference between **calculated column vs measure**?
+3. What are common DAX functions you have used? (SUM, CALCULATE, FILTER, etc.)
+4. How do you handle missing or null values in Power BI?
+5. What is data cleaning in Power Query?
+6. How do you remove duplicates in Power BI?
+7. What is row context and filter context in DAX?
+8. How do you optimize a slow Power BI report?
+9. What is a star schema and why is it preferred?
+10. How do you join tables in Power BI?
+
+--- Advanced Level (Real Job Scenarios)
+
+1. How would you design a dashboard for business stakeholders?
+2. How do you decide which KPIs to include in a report?
+3. How do you handle large datasets efficiently in Power BI?
+4. What are performance tuning techniques in Power BI?
+5. Explain CALCULATE function with a real example.
+6. How do you implement time intelligence (YTD, MTD, YoY)?
+7. How would you validate data accuracy in a report?
+8. What is incremental refresh and when do you use it?
+9. How do you handle inconsistent date formats in raw data?
+10. Describe a Power BI project you worked on end-to-end.
+
+---
+
+## 🧠 Scenario-Based Questions (Very Important for Interviews)
+
+1. A report is loading very slowly—how will you fix it?
+2. Data from Excel has duplicates and missing values—what steps will you take?
+3. Business wants daily sales dashboard—how will you design it?
+4. Two tables have mismatched keys—how will you handle it?
+5. A KPI is not matching with Excel report—how will you debug it?
+
